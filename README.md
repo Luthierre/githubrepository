@@ -1,2 +1,2 @@
 # githubrepository
-Pequena aplicação desenvolvida para listar os repositorios e mostrar suas respectivas issues.
+Pequena aplicação desenvolvida para listar os repositórios e mostrar suas respectivas issues.
